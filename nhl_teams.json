@@ -1,0 +1,1148 @@
+{
+    "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+    "teams": [
+        {
+            "id": 1,
+            "name": "New Jersey Devils",
+            "venue": {
+                "name": "Prudential Center",
+                "city": "Newark",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "NJD",
+            "teamName": "Devils",
+            "locationName": "New Jersey",
+            "firstYearOfPlay": "1982",
+            "division": {
+                "id": 18,
+                "name": "Metropolitan",
+                "nameShort": "Metro",
+                "abbreviation": "M"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 23,
+                "teamName": "Devils"
+            },
+            "shortName": "New Jersey",
+            "officialSiteUrl": "http://www.newjerseydevils.com/",
+            "franchiseId": 23,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/1.svg"
+        },
+        {
+            "id": 2,
+            "name": "New York Islanders",
+            "venue": {
+                "id": 5026,
+                "name": "Barclays Center",
+                "city": "Brooklyn",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "NYI",
+            "teamName": "Islanders",
+            "locationName": "New York",
+            "firstYearOfPlay": "1972",
+            "division": {
+                "id": 18,
+                "name": "Metropolitan",
+                "nameShort": "Metro",
+                "abbreviation": "M"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 22,
+                "teamName": "Islanders"
+            },
+            "shortName": "NY Islanders",
+            "officialSiteUrl": "http://www.newyorkislanders.com/",
+            "franchiseId": 22,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-2-secondary-light.svg"
+        },
+        {
+            "id": 3,
+            "name": "New York Rangers",
+            "venue": {
+                "id": 5054,
+                "name": "Madison Square Garden",
+                "city": "New York",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "NYR",
+            "teamName": "Rangers",
+            "locationName": "New York",
+            "firstYearOfPlay": "1926",
+            "division": {
+                "id": 18,
+                "name": "Metropolitan",
+                "nameShort": "Metro",
+                "abbreviation": "M"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 10,
+                "teamName": "Rangers"
+            },
+            "shortName": "NY Rangers",
+            "officialSiteUrl": "http://www.newyorkrangers.com/",
+            "franchiseId": 10,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-3-dark.svg"
+        },
+        {
+            "id": 4,
+            "name": "Philadelphia Flyers",
+            "venue": {
+                "id": 5096,
+                "name": "Wells Fargo Center",
+                "city": "Philadelphia",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "PHI",
+            "teamName": "Flyers",
+            "locationName": "Philadelphia",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 18,
+                "name": "Metropolitan",
+                "nameShort": "Metro",
+                "abbreviation": "M"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 16,
+                "teamName": "Flyers"
+            },
+            "shortName": "Philadelphia",
+            "officialSiteUrl": "http://www.philadelphiaflyers.com/",
+            "franchiseId": 16,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-4-dark.svg"
+        },
+        {
+            "id": 5,
+            "name": "Pittsburgh Penguins",
+            "venue": {
+                "id": 5034,
+                "name": "PPG Paints Arena",
+                "city": "Pittsburgh",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "PIT",
+            "teamName": "Penguins",
+            "locationName": "Pittsburgh",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 18,
+                "name": "Metropolitan",
+                "nameShort": "Metro",
+                "abbreviation": "M"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 17,
+                "teamName": "Penguins"
+            },
+            "shortName": "Pittsburgh",
+            "officialSiteUrl": "http://pittsburghpenguins.com/",
+            "franchiseId": 17,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-5-light.svg"
+        },
+        {
+            "id": 6,
+            "name": "Boston Bruins",
+            "venue": {
+                "id": 5085,
+                "name": "TD Garden",
+                "city": "Boston",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "BOS",
+            "teamName": "Bruins",
+            "locationName": "Boston",
+            "firstYearOfPlay": "1924",
+            "division": {
+                "id": 17,
+                "name": "Atlantic",
+                "nameShort": "ATL",
+                "abbreviation": "A"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 6,
+                "teamName": "Bruins"
+            },
+            "shortName": "Boston",
+            "officialSiteUrl": "http://www.bostonbruins.com/",
+            "franchiseId": 6,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/6.svg"
+        },
+        {
+            "id": 7,
+            "name": "Buffalo Sabres",
+            "venue": {
+                "id": 5039,
+                "name": "KeyBank Center",
+                "city": "Buffalo",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "BUF",
+            "teamName": "Sabres",
+            "locationName": "Buffalo",
+            "firstYearOfPlay": "1970",
+            "division": {
+                "id": 17,
+                "name": "Atlantic",
+                "nameShort": "ATL",
+                "abbreviation": "A"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 19,
+                "teamName": "Sabres"
+            },
+            "shortName": "Buffalo",
+            "officialSiteUrl": "http://www.sabres.com/",
+            "franchiseId": 19,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/7.svg"
+        },
+        {
+            "id": 8,
+            "name": "Montréal Canadiens",
+            "venue": {
+                "id": 5028,
+                "name": "Bell Centre",
+                "city": "Montréal",
+                "timeZone": {
+                    "id": "America/Montreal",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "MTL",
+            "teamName": "Canadiens",
+            "locationName": "Montréal",
+            "firstYearOfPlay": "1909",
+            "division": {
+                "id": 17,
+                "name": "Atlantic",
+                "nameShort": "ATL",
+                "abbreviation": "A"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 1,
+                "teamName": "Canadiens"
+            },
+            "shortName": "Montréal",
+            "officialSiteUrl": "http://www.canadiens.com/",
+            "franchiseId": 1,
+            "active": true,
+            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/309964702/binary-file/file.svg"
+        },
+        {
+            "id": 9,
+            "name": "Ottawa Senators",
+            "venue": {
+                "id": 5031,
+                "name": "Canadian Tire Centre",
+                "city": "Ottawa",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "OTT",
+            "teamName": "Senators",
+            "locationName": "Ottawa",
+            "firstYearOfPlay": "1990",
+            "division": {
+                "id": 17,
+                "name": "Atlantic",
+                "nameShort": "ATL",
+                "abbreviation": "A"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 30,
+                "teamName": "Senators"
+            },
+            "shortName": "Ottawa",
+            "officialSiteUrl": "http://www.ottawasenators.com/",
+            "franchiseId": 30,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-9-light.svg"
+        },
+        {
+            "id": 10,
+            "name": "Toronto Maple Leafs",
+            "venue": {
+                "name": "Scotiabank Arena",
+                "city": "Toronto",
+                "timeZone": {
+                    "id": "America/Toronto",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "TOR",
+            "teamName": "Maple Leafs",
+            "locationName": "Toronto",
+            "firstYearOfPlay": "1917",
+            "division": {
+                "id": 17,
+                "name": "Atlantic",
+                "nameShort": "ATL",
+                "abbreviation": "A"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 5,
+                "teamName": "Maple Leafs"
+            },
+            "shortName": "Toronto",
+            "officialSiteUrl": "http://www.mapleleafs.com/",
+            "franchiseId": 5,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-10-light.svg"
+        },
+        {
+            "id": 12,
+            "name": "Carolina Hurricanes",
+            "venue": {
+                "id": 5066,
+                "name": "PNC Arena",
+                "city": "Raleigh",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "CAR",
+            "teamName": "Hurricanes",
+            "locationName": "Carolina",
+            "firstYearOfPlay": "1979",
+            "division": {
+                "id": 18,
+                "name": "Metropolitan",
+                "nameShort": "Metro",
+                "abbreviation": "M"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 26,
+                "teamName": "Hurricanes"
+            },
+            "shortName": "Carolina",
+            "officialSiteUrl": "http://www.carolinahurricanes.com/",
+            "franchiseId": 26,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-12-dark.svg"
+        },
+        {
+            "id": 13,
+            "name": "Florida Panthers",
+            "venue": {
+                "id": 5027,
+                "name": "BB&T Center",
+                "city": "Sunrise",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "FLA",
+            "teamName": "Panthers",
+            "locationName": "Florida",
+            "firstYearOfPlay": "1993",
+            "division": {
+                "id": 17,
+                "name": "Atlantic",
+                "nameShort": "ATL",
+                "abbreviation": "A"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 33,
+                "teamName": "Panthers"
+            },
+            "shortName": "Florida",
+            "officialSiteUrl": "http://www.floridapanthers.com/",
+            "franchiseId": 33,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-13-light.svg"
+        },
+        {
+            "id": 14,
+            "name": "Tampa Bay Lightning",
+            "venue": {
+                "name": "AMALIE Arena",
+                "city": "Tampa",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "TBL",
+            "teamName": "Lightning",
+            "locationName": "Tampa Bay",
+            "firstYearOfPlay": "1991",
+            "division": {
+                "id": 17,
+                "name": "Atlantic",
+                "nameShort": "ATL",
+                "abbreviation": "A"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 31,
+                "teamName": "Lightning"
+            },
+            "shortName": "Tampa Bay",
+            "officialSiteUrl": "http://www.tampabaylightning.com/",
+            "franchiseId": 31,
+            "active": true,
+            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/301466466/binary-file/file.svg"
+        },
+        {
+            "id": 15,
+            "name": "Washington Capitals",
+            "venue": {
+                "id": 5094,
+                "name": "Capital One Arena",
+                "city": "Washington",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "WSH",
+            "teamName": "Capitals",
+            "locationName": "Washington",
+            "firstYearOfPlay": "1974",
+            "division": {
+                "id": 18,
+                "name": "Metropolitan",
+                "nameShort": "Metro",
+                "abbreviation": "M"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 24,
+                "teamName": "Capitals"
+            },
+            "shortName": "Washington",
+            "officialSiteUrl": "http://www.washingtoncapitals.com/",
+            "franchiseId": 24,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/15.svg"
+        },
+        {
+            "id": 16,
+            "name": "Chicago Blackhawks",
+            "venue": {
+                "id": 5092,
+                "name": "United Center",
+                "city": "Chicago",
+                "timeZone": {
+                    "id": "America/Chicago",
+                    "offset": -6,
+                    "tz": "CST"
+                }
+            },
+            "abbreviation": "CHI",
+            "teamName": "Blackhawks",
+            "locationName": "Chicago",
+            "firstYearOfPlay": "1926",
+            "division": {
+                "id": 16,
+                "name": "Central",
+                "nameShort": "CEN",
+                "abbreviation": "C"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 11,
+                "teamName": "Blackhawks"
+            },
+            "shortName": "Chicago",
+            "officialSiteUrl": "http://www.chicagoblackhawks.com/",
+            "franchiseId": 11,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/16.svg"
+        },
+        {
+            "id": 17,
+            "name": "Detroit Red Wings",
+            "venue": {
+                "id": 5145,
+                "name": "Little Caesars Arena",
+                "city": "Detroit",
+                "timeZone": {
+                    "id": "America/Detroit",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "DET",
+            "teamName": "Red Wings",
+            "locationName": "Detroit",
+            "firstYearOfPlay": "1926",
+            "division": {
+                "id": 17,
+                "name": "Atlantic",
+                "nameShort": "ATL",
+                "abbreviation": "A"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 12,
+                "teamName": "Red Wings"
+            },
+            "shortName": "Detroit",
+            "officialSiteUrl": "http://www.detroitredwings.com/",
+            "franchiseId": 12,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-17-light.svg"
+        },
+        {
+            "id": 18,
+            "name": "Nashville Predators",
+            "venue": {
+                "id": 5030,
+                "name": "Bridgestone Arena",
+                "city": "Nashville",
+                "timeZone": {
+                    "id": "America/Chicago",
+                    "offset": -6,
+                    "tz": "CST"
+                }
+            },
+            "abbreviation": "NSH",
+            "teamName": "Predators",
+            "locationName": "Nashville",
+            "firstYearOfPlay": "1997",
+            "division": {
+                "id": 16,
+                "name": "Central",
+                "nameShort": "CEN",
+                "abbreviation": "C"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 34,
+                "teamName": "Predators"
+            },
+            "shortName": "Nashville",
+            "officialSiteUrl": "http://www.nashvillepredators.com/",
+            "franchiseId": 34,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-18-light.svg"
+        },
+        {
+            "id": 19,
+            "name": "St. Louis Blues",
+            "venue": {
+                "id": 5076,
+                "name": "Enterprise Center",
+                "city": "St. Louis",
+                "timeZone": {
+                    "id": "America/Chicago",
+                    "offset": -6,
+                    "tz": "CST"
+                }
+            },
+            "abbreviation": "STL",
+            "teamName": "Blues",
+            "locationName": "St. Louis",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 16,
+                "name": "Central",
+                "nameShort": "CEN",
+                "abbreviation": "C"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 18,
+                "teamName": "Blues"
+            },
+            "shortName": "St Louis",
+            "officialSiteUrl": "http://www.stlouisblues.com/",
+            "franchiseId": 18,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/19.svg"
+        },
+        {
+            "id": 20,
+            "name": "Calgary Flames",
+            "venue": {
+                "id": 5075,
+                "name": "Scotiabank Saddledome",
+                "city": "Calgary",
+                "timeZone": {
+                    "id": "America/Denver",
+                    "offset": -7,
+                    "tz": "MST"
+                }
+            },
+            "abbreviation": "CGY",
+            "teamName": "Flames",
+            "locationName": "Calgary",
+            "firstYearOfPlay": "1980",
+            "division": {
+                "id": 15,
+                "name": "Pacific",
+                "nameShort": "PAC",
+                "abbreviation": "P"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 21,
+                "teamName": "Flames"
+            },
+            "shortName": "Calgary",
+            "officialSiteUrl": "http://www.calgaryflames.com/",
+            "franchiseId": 21,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-20-light.svg"
+        },
+        {
+            "id": 21,
+            "name": "Colorado Avalanche",
+            "venue": {
+                "id": 5064,
+                "name": "Pepsi Center",
+                "city": "Denver",
+                "timeZone": {
+                    "id": "America/Denver",
+                    "offset": -7,
+                    "tz": "MST"
+                }
+            },
+            "abbreviation": "COL",
+            "teamName": "Avalanche",
+            "locationName": "Colorado",
+            "firstYearOfPlay": "1979",
+            "division": {
+                "id": 16,
+                "name": "Central",
+                "nameShort": "CEN",
+                "abbreviation": "C"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 27,
+                "teamName": "Avalanche"
+            },
+            "shortName": "Colorado",
+            "officialSiteUrl": "http://www.coloradoavalanche.com/",
+            "franchiseId": 27,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/21.svg"
+        },
+        {
+            "id": 22,
+            "name": "Edmonton Oilers",
+            "venue": {
+                "id": 5100,
+                "name": "Rogers Place",
+                "city": "Edmonton",
+                "timeZone": {
+                    "id": "America/Edmonton",
+                    "offset": -7,
+                    "tz": "MST"
+                }
+            },
+            "abbreviation": "EDM",
+            "teamName": "Oilers",
+            "locationName": "Edmonton",
+            "firstYearOfPlay": "1979",
+            "division": {
+                "id": 15,
+                "name": "Pacific",
+                "nameShort": "PAC",
+                "abbreviation": "P"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 25,
+                "teamName": "Oilers"
+            },
+            "shortName": "Edmonton",
+            "officialSiteUrl": "http://www.edmontonoilers.com/",
+            "franchiseId": 25,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-22-light.svg"
+        },
+        {
+            "id": 23,
+            "name": "Vancouver Canucks",
+            "venue": {
+                "id": 5073,
+                "name": "Rogers Arena",
+                "city": "Vancouver",
+                "timeZone": {
+                    "id": "America/Vancouver",
+                    "offset": -8,
+                    "tz": "PST"
+                }
+            },
+            "abbreviation": "VAN",
+            "teamName": "Canucks",
+            "locationName": "Vancouver",
+            "firstYearOfPlay": "1970",
+            "division": {
+                "id": 15,
+                "name": "Pacific",
+                "nameShort": "PAC",
+                "abbreviation": "P"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 20,
+                "teamName": "Canucks"
+            },
+            "shortName": "Vancouver",
+            "officialSiteUrl": "http://www.canucks.com/",
+            "franchiseId": 20,
+            "active": true,
+            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/307814702/binary-file/file.svg"
+        },
+        {
+            "id": 24,
+            "name": "Anaheim Ducks",
+            "venue": {
+                "id": 5046,
+                "name": "Honda Center",
+                "city": "Anaheim",
+                "timeZone": {
+                    "id": "America/Los_Angeles",
+                    "offset": -8,
+                    "tz": "PST"
+                }
+            },
+            "abbreviation": "ANA",
+            "teamName": "Ducks",
+            "locationName": "Anaheim",
+            "firstYearOfPlay": "1993",
+            "division": {
+                "id": 15,
+                "name": "Pacific",
+                "nameShort": "PAC",
+                "abbreviation": "P"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 32,
+                "teamName": "Ducks"
+            },
+            "shortName": "Anaheim",
+            "officialSiteUrl": "http://www.anaheimducks.com/",
+            "franchiseId": 32,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-24-light.svg"
+        },
+        {
+            "id": 25,
+            "name": "Dallas Stars",
+            "venue": {
+                "id": 5019,
+                "name": "American Airlines Center",
+                "city": "Dallas",
+                "timeZone": {
+                    "id": "America/Chicago",
+                    "offset": -6,
+                    "tz": "CST"
+                }
+            },
+            "abbreviation": "DAL",
+            "teamName": "Stars",
+            "locationName": "Dallas",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 16,
+                "name": "Central",
+                "nameShort": "CEN",
+                "abbreviation": "C"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 15,
+                "teamName": "Stars"
+            },
+            "shortName": "Dallas",
+            "officialSiteUrl": "http://www.dallasstars.com/",
+            "franchiseId": 15,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-25-light.svg"
+        },
+        {
+            "id": 26,
+            "name": "Los Angeles Kings",
+            "venue": {
+                "id": 5081,
+                "name": "STAPLES Center",
+                "city": "Los Angeles",
+                "timeZone": {
+                    "id": "America/Los_Angeles",
+                    "offset": -8,
+                    "tz": "PST"
+                }
+            },
+            "abbreviation": "LAK",
+            "teamName": "Kings",
+            "locationName": "Los Angeles",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 15,
+                "name": "Pacific",
+                "nameShort": "PAC",
+                "abbreviation": "P"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 14,
+                "teamName": "Kings"
+            },
+            "shortName": "Los Angeles",
+            "officialSiteUrl": "http://www.lakings.com/",
+            "franchiseId": 14,
+            "active": true,
+            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/312855340/binary-file/file.svg"
+        },
+        {
+            "id": 28,
+            "name": "San Jose Sharks",
+            "venue": {
+                "name": "SAP Center at San Jose",
+                "city": "San Jose",
+                "timeZone": {
+                    "id": "America/Los_Angeles",
+                    "offset": -8,
+                    "tz": "PST"
+                }
+            },
+            "abbreviation": "SJS",
+            "teamName": "Sharks",
+            "locationName": "San Jose",
+            "firstYearOfPlay": "1990",
+            "division": {
+                "id": 15,
+                "name": "Pacific",
+                "nameShort": "PAC",
+                "abbreviation": "P"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 29,
+                "teamName": "Sharks"
+            },
+            "shortName": "San Jose",
+            "officialSiteUrl": "http://www.sjsharks.com/",
+            "franchiseId": 29,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-28-light.svg"
+        },
+        {
+            "id": 29,
+            "name": "Columbus Blue Jackets",
+            "venue": {
+                "id": 5059,
+                "name": "Nationwide Arena",
+                "city": "Columbus",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -5,
+                    "tz": "EST"
+                }
+            },
+            "abbreviation": "CBJ",
+            "teamName": "Blue Jackets",
+            "locationName": "Columbus",
+            "firstYearOfPlay": "1997",
+            "division": {
+                "id": 18,
+                "name": "Metropolitan",
+                "nameShort": "Metro",
+                "abbreviation": "M"
+            },
+            "conference": {
+                "id": 6,
+                "name": "Eastern"
+            },
+            "franchise": {
+                "franchiseId": 36,
+                "teamName": "Blue Jackets"
+            },
+            "shortName": "Columbus",
+            "officialSiteUrl": "http://www.bluejackets.com/",
+            "franchiseId": 36,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-29-dark.svg"
+        },
+        {
+            "id": 30,
+            "name": "Minnesota Wild",
+            "venue": {
+                "id": 5098,
+                "name": "Xcel Energy Center",
+                "city": "St. Paul",
+                "timeZone": {
+                    "id": "America/Chicago",
+                    "offset": -6,
+                    "tz": "CST"
+                }
+            },
+            "abbreviation": "MIN",
+            "teamName": "Wild",
+            "locationName": "Minnesota",
+            "firstYearOfPlay": "1997",
+            "division": {
+                "id": 16,
+                "name": "Central",
+                "nameShort": "CEN",
+                "abbreviation": "C"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 37,
+                "teamName": "Wild"
+            },
+            "shortName": "Minnesota",
+            "officialSiteUrl": "http://www.wild.com/",
+            "franchiseId": 37,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-30-light.svg"
+        },
+        {
+            "id": 52,
+            "name": "Winnipeg Jets",
+            "venue": {
+                "id": 5058,
+                "name": "Bell MTS Place",
+                "city": "Winnipeg",
+                "timeZone": {
+                    "id": "America/Winnipeg",
+                    "offset": -6,
+                    "tz": "CST"
+                }
+            },
+            "abbreviation": "WPG",
+            "teamName": "Jets",
+            "locationName": "Winnipeg",
+            "firstYearOfPlay": "2011",
+            "division": {
+                "id": 16,
+                "name": "Central",
+                "nameShort": "CEN",
+                "abbreviation": "C"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 35,
+                "teamName": "Jets"
+            },
+            "shortName": "Winnipeg",
+            "officialSiteUrl": "http://winnipegjets.com/",
+            "franchiseId": 35,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-52-dark.svg"
+        },
+        {
+            "id": 53,
+            "name": "Arizona Coyotes",
+            "venue": {
+                "id": 5043,
+                "name": "Gila River Arena",
+                "city": "Glendale",
+                "timeZone": {
+                    "id": "America/Phoenix",
+                    "offset": -7,
+                    "tz": "MST"
+                }
+            },
+            "abbreviation": "ARI",
+            "teamName": "Coyotes",
+            "locationName": "Arizona",
+            "firstYearOfPlay": "1979",
+            "division": {
+                "id": 15,
+                "name": "Pacific",
+                "nameShort": "PAC",
+                "abbreviation": "P"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 28,
+                "teamName": "Coyotes"
+            },
+            "shortName": "Arizona",
+            "officialSiteUrl": "http://www.arizonacoyotes.com/",
+            "franchiseId": 28,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/53.svg"
+        },
+        {
+            "id": 54,
+            "name": "Vegas Golden Knights",
+            "venue": {
+                "id": 5178,
+                "name": "T-Mobile Arena",
+                "city": "Las Vegas",
+                "timeZone": {
+                    "id": "America/Los_Angeles",
+                    "offset": -8,
+                    "tz": "PST"
+                }
+            },
+            "abbreviation": "VGK",
+            "teamName": "Golden Knights",
+            "locationName": "Vegas",
+            "firstYearOfPlay": "2016",
+            "division": {
+                "id": 15,
+                "name": "Pacific",
+                "nameShort": "PAC",
+                "abbreviation": "P"
+            },
+            "conference": {
+                "id": 5,
+                "name": "Western"
+            },
+            "franchise": {
+                "franchiseId": 38,
+                "teamName": "Golden Knights"
+            },
+            "shortName": "Vegas",
+            "officialSiteUrl": "http://www.vegasgoldenknights.com/",
+            "franchiseId": 38,
+            "active": true,
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-54-dark.svg"
+        }
+    ]
+}
