@@ -35,7 +35,8 @@
             "officialSiteUrl": "http://www.newjerseydevils.com/",
             "franchiseId": 23,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/1.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/1.svg",
+            "moneypuckName" : "N.J"
         },
         {
             "id": 2,
@@ -72,7 +73,8 @@
             "officialSiteUrl": "http://www.newyorkislanders.com/",
             "franchiseId": 22,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-2-secondary-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-2-secondary-light.svg",
+            "moneypuckName" : "NYI"
         },
         {
             "id": 3,
@@ -109,7 +111,8 @@
             "officialSiteUrl": "http://www.newyorkrangers.com/",
             "franchiseId": 10,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-3-dark.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-3-dark.svg",
+            "moneypuckName" : "NYR"
         },
         {
             "id": 4,
@@ -146,7 +149,8 @@
             "officialSiteUrl": "http://www.philadelphiaflyers.com/",
             "franchiseId": 16,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-4-dark.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-4-dark.svg",
+            "moneypuckName" : "PHI"
         },
         {
             "id": 5,
@@ -183,7 +187,8 @@
             "officialSiteUrl": "http://pittsburghpenguins.com/",
             "franchiseId": 17,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-5-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-5-light.svg",
+            "moneypuckName" : "PIT"
         },
         {
             "id": 6,
@@ -220,7 +225,8 @@
             "officialSiteUrl": "http://www.bostonbruins.com/",
             "franchiseId": 6,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/6.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/6.svg",
+            "moneypuckName" : "BOS"
         },
         {
             "id": 7,
@@ -257,7 +263,8 @@
             "officialSiteUrl": "http://www.sabres.com/",
             "franchiseId": 19,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/7.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/7.svg",
+            "moneypuckName" : "BUF"
         },
         {
             "id": 8,
@@ -294,7 +301,8 @@
             "officialSiteUrl": "http://www.canadiens.com/",
             "franchiseId": 1,
             "active": true,
-            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/309964702/binary-file/file.svg"
+            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/309964702/binary-file/file.svg",
+            "moneypuckName" : "MTL"
         },
         {
             "id": 9,
@@ -331,7 +339,8 @@
             "officialSiteUrl": "http://www.ottawasenators.com/",
             "franchiseId": 30,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-9-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-9-light.svg",
+            "moneypuckName" : "OTT"
         },
         {
             "id": 10,
@@ -367,7 +376,8 @@
             "officialSiteUrl": "http://www.mapleleafs.com/",
             "franchiseId": 5,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-10-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-10-light.svg",
+            "moneypuckName" : "TOR"
         },
         {
             "id": 12,
@@ -404,7 +414,8 @@
             "officialSiteUrl": "http://www.carolinahurricanes.com/",
             "franchiseId": 26,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-12-dark.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-12-dark.svg",
+            "moneypuckName" : "CAR"
         },
         {
             "id": 13,
@@ -441,7 +452,8 @@
             "officialSiteUrl": "http://www.floridapanthers.com/",
             "franchiseId": 33,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-13-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-13-light.svg",
+            "moneypuckName" : "FLA"
         },
         {
             "id": 14,
@@ -477,7 +489,8 @@
             "officialSiteUrl": "http://www.tampabaylightning.com/",
             "franchiseId": 31,
             "active": true,
-            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/301466466/binary-file/file.svg"
+            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/301466466/binary-file/file.svg",
+            "moneypuckName" : "T.B"
         },
         {
             "id": 15,
@@ -514,7 +527,8 @@
             "officialSiteUrl": "http://www.washingtoncapitals.com/",
             "franchiseId": 24,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/15.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/15.svg",
+            "moneypuckName" : "WSH"
         },
         {
             "id": 16,
@@ -551,7 +565,8 @@
             "officialSiteUrl": "http://www.chicagoblackhawks.com/",
             "franchiseId": 11,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/16.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/16.svg",
+            "moneypuckName" : "CHI"
         },
         {
             "id": 17,
@@ -588,7 +603,8 @@
             "officialSiteUrl": "http://www.detroitredwings.com/",
             "franchiseId": 12,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-17-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-17-light.svg",
+            "moneypuckName" : "DET"
         },
         {
             "id": 18,
@@ -625,7 +641,8 @@
             "officialSiteUrl": "http://www.nashvillepredators.com/",
             "franchiseId": 34,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-18-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-18-light.svg",
+            "moneypuckName" : "NSH"
         },
         {
             "id": 19,
@@ -662,7 +679,8 @@
             "officialSiteUrl": "http://www.stlouisblues.com/",
             "franchiseId": 18,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/19.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/19.svg",
+            "moneypuckName" : "STL"
         },
         {
             "id": 20,
@@ -699,7 +717,8 @@
             "officialSiteUrl": "http://www.calgaryflames.com/",
             "franchiseId": 21,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-20-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-20-light.svg",
+            "moneypuckName" : "CGY"
         },
         {
             "id": 21,
@@ -736,7 +755,8 @@
             "officialSiteUrl": "http://www.coloradoavalanche.com/",
             "franchiseId": 27,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/21.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/21.svg",
+            "moneypuckName" : "COL"
         },
         {
             "id": 22,
@@ -773,7 +793,8 @@
             "officialSiteUrl": "http://www.edmontonoilers.com/",
             "franchiseId": 25,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-22-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-22-light.svg",
+            "moneypuckName" : "EDM"
         },
         {
             "id": 23,
@@ -810,7 +831,8 @@
             "officialSiteUrl": "http://www.canucks.com/",
             "franchiseId": 20,
             "active": true,
-            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/307814702/binary-file/file.svg"
+            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/307814702/binary-file/file.svg",
+            "moneypuckName" : "VAN"
         },
         {
             "id": 24,
@@ -847,7 +869,8 @@
             "officialSiteUrl": "http://www.anaheimducks.com/",
             "franchiseId": 32,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-24-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-24-light.svg",
+            "moneypuckName" : "ANA"
         },
         {
             "id": 25,
@@ -884,7 +907,8 @@
             "officialSiteUrl": "http://www.dallasstars.com/",
             "franchiseId": 15,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-25-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-25-light.svg",
+            "moneypuckName" : "DAL"
         },
         {
             "id": 26,
@@ -921,7 +945,8 @@
             "officialSiteUrl": "http://www.lakings.com/",
             "franchiseId": 14,
             "active": true,
-            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/312855340/binary-file/file.svg"
+            "teamLogo": "https://nhl.bamcontent.com/images/assets/binary/312855340/binary-file/file.svg",
+            "moneypuckName" : "L.A"
         },
         {
             "id": 28,
@@ -957,7 +982,8 @@
             "officialSiteUrl": "http://www.sjsharks.com/",
             "franchiseId": 29,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-28-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-28-light.svg",
+            "moneypuckName" : "S.J"
         },
         {
             "id": 29,
@@ -994,7 +1020,8 @@
             "officialSiteUrl": "http://www.bluejackets.com/",
             "franchiseId": 36,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-29-dark.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-29-dark.svg",
+            "moneypuckName" : "CBJ"
         },
         {
             "id": 30,
@@ -1031,7 +1058,8 @@
             "officialSiteUrl": "http://www.wild.com/",
             "franchiseId": 37,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-30-light.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-30-light.svg",
+            "moneypuckName" : "MIN"
         },
         {
             "id": 52,
@@ -1068,7 +1096,8 @@
             "officialSiteUrl": "http://winnipegjets.com/",
             "franchiseId": 35,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-52-dark.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-52-dark.svg",
+            "moneypuckName" : "WPG"
         },
         {
             "id": 53,
@@ -1105,7 +1134,8 @@
             "officialSiteUrl": "http://www.arizonacoyotes.com/",
             "franchiseId": 28,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/53.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-dark/53.svg",
+            "moneypuckName" : "ARI"
         },
         {
             "id": 54,
@@ -1142,7 +1172,8 @@
             "officialSiteUrl": "http://www.vegasgoldenknights.com/",
             "franchiseId": 38,
             "active": true,
-            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-54-dark.svg"
+            "teamLogo": "https://www-league.nhlstatic.com/nhl.com/builds/site-core/d1b262bacd4892b22a38e8708cdb10c8327ff73e_1578331345/images/logos/team/current/team-54-dark.svg",
+            "moneypuckName" : "VGK"
         }
     ]
 }
