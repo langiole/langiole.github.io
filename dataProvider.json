@@ -1,1 +1,188 @@
-[]
+[
+    {
+        "x": 2.850980656466941,
+        "y": 1.5164790725887982,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/24.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.750190985485103,
+        "y": 1.466768525592055,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/53.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.001111728738188,
+        "y": 0.6670372429127293,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/6.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.4150133328861085,
+        "y": 1.690509333020276,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/7.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.2457067371202117,
+        "y": 2.7741083223249667,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/12.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 1.7490283176013326,
+        "y": 1.5616324264297612,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/29.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.200525350646776,
+        "y": 1.4868414531397136,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/20.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 3.0107382999364396,
+        "y": 2.1075168099555084,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/16.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.3338337655247714,
+        "y": 2.2724170874846457,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/21.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 1.8091664433127848,
+        "y": 1.6282497989815063,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/25.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.9484532564369443,
+        "y": 2.7641749279096355,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/17.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 3.090075706854818,
+        "y": 2.101251480661276,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/22.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.364402605221389,
+        "y": 1.9703355043511575,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/13.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.0973928241976987,
+        "y": 1.9226100888478905,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/26.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.488870902468636,
+        "y": 1.8818292189397003,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/30.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.2359873092612177,
+        "y": 2.2359873092612177,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/8.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.691893019858797,
+        "y": 2.4414843668486768,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/1.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.298453892876864,
+        "y": 2.174213141910547,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/18.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.600985221674877,
+        "y": 1.536945812807882,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/2.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.9066671247702325,
+        "y": 2.411915273745512,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/3.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 3.2614604094944735,
+        "y": 1.5417812844882965,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/9.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.804450541076055,
+        "y": 2.438652644413961,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/4.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.2453468141680073,
+        "y": 2.008994517939796,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/5.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.4591393012445644,
+        "y": 1.9793072424651375,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/28.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 1.9566828625545583,
+        "y": 1.660215762167504,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/19.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.2172949002217295,
+        "y": 1.9638897687678176,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/14.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.797972765103062,
+        "y": 1.923606276008355,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/10.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.755553935594394,
+        "y": 2.4931202274425472,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/23.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.6697679122212667,
+        "y": 2.366385194923396,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/54.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.539036871801601,
+        "y": 3.483794777588243,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/52.svg",
+        "iconClass": "icon"
+    },
+    {
+        "x": 2.3626237184717445,
+        "y": 2.426478413565575,
+        "image": "https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/15.svg",
+        "iconClass": "icon"
+    }
+]
