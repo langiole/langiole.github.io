@@ -1,46 +1,46 @@
 [
     {
         "feature": "corsiPercentage",
-        "weight": 1.06
+        "weight": 1.17
     },
     {
         "feature": "fenwickPercentage",
-        "weight": 1.19
+        "weight": 1.52
     },
     {
         "feature": "shotsOnGoalPercentage",
-        "weight": 7.9
+        "weight": 7.64
     },
     {
         "feature": "lowDangerShotsPercentage",
-        "weight": 0.2
+        "weight": 0.23
     },
     {
         "feature": "mediumDangerShotsPercentage",
-        "weight": 0.14
+        "weight": 0.11
     },
     {
         "feature": "highDangerShotsPercentage",
-        "weight": 0.12
+        "weight": 0.25
     },
     {
         "feature": "penaltyMinutesPercentage",
-        "weight": 0.13
+        "weight": 0.15
     },
     {
         "feature": "hitsPercentage",
-        "weight": 0.24
+        "weight": 0.17
     },
     {
         "feature": "faceoffPercentage",
-        "weight": 0.06
+        "weight": 0.02
     },
     {
         "feature": "savePercentage",
-        "weight": 26.38
+        "weight": 26.79
     },
     {
         "feature": "shootingPercentage",
-        "weight": 26.08
+        "weight": 26.3
     }
 ]
